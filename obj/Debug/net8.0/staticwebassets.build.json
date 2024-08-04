@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NOF5BQgsH8PDQi5UHymPgEwmWKw8cme6k4nJrjkueCs=",
+  "Source": "dotnet-webapi-ef",
+  "BasePath": "_content/dotnet-webapi-ef",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
